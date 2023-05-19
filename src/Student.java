@@ -19,7 +19,8 @@ public class Student {
 			this.d_o_b= d_o_b;
 		}
 		
-       // getters that the program use them
+	
+       		// getters that the program use them
 		public int getid() { //get id
 			return id;
 		}
